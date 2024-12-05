@@ -1,0 +1,17 @@
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.exe
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.deps.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.runtimeconfig.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.Form1.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.Properties.Resources.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.csproj.GenerateResource.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.AssemblyInfoInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.AssemblyInfo.cs
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.csproj.CoreCompileInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\refint\INF_Übungsbeispiel_Geradenschnitt.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Geradenschnitt.genruntimeconfig.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Geradenschnitt\obj\Debug\net8.0-windows\ref\INF_Übungsbeispiel_Geradenschnitt.dll
